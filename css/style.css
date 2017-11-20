@@ -1,0 +1,8 @@
+body {
+	background-color: pink;
+}
+#score {
+	font-size: 25px;
+	font-family: 'Georgia', serif;
+	color: #ff3b3f;
+}
